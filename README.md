@@ -41,10 +41,6 @@ That's it! The website should open in your browser, and you can start exploring 
 - **Backend:** None (static website).
 - **Hosting:** GitHub Pages (for deployment).
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
 For support or feedback, contact us at [support@news360.com](mailto:support@news360.com).
