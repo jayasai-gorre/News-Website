@@ -30,7 +30,7 @@ That's it! The website should open in your browser, and you can start exploring 
 
 ## 🖥️ Usage
 
-- Use the sidebar to navigate between different domains.
+- Use the nav to navigate between different domains.
 - Click on news articles to read full details.
 - Use the search bar to find articles by keyword.
 
